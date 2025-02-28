@@ -1,0 +1,12 @@
+export { default as About } from "./About";
+export { default as Logo } from "./Logo"
+export { default as Benefits } from "./Benefits"
+export { default as Collaborators } from "./Collaborators"
+export { default as Footer } from "./Footer"
+export { default as Hero } from "./Hero"
+export { default as Navbar } from "./Navbar"
+export { default as Products } from "./Products"
+export { default as Team } from "./Team"
+export { default as Popup } from "./Popup"
+export { default as ClickSpark } from "./clickSpark"
+export { default as  BlurText } from "./BlurText"
