@@ -14,10 +14,10 @@ function  Footer ()  {
                 consciousness.
               </p>
               <ul className="media" id="media">
-                <li><a><i class='bx bxl-instagram'></i></a></li>
-                <li><a><i class='bx bxl-tiktok' ></i></a></li>
-                <li><a><i class='bx bxl-facebook-circle' ></i></a></li>
-                <li><a><i class='bx bxl-linkedin-square'></i></a></li>
+                <li><a><i className='bx bxl-instagram'></i></a></li>
+                <li><a><i className='bx bxl-tiktok' ></i></a></li>
+                <li><a><i className='bx bxl-facebook-circle' ></i></a></li>
+                <li><a><i className='bx bxl-linkedin-square'></i></a></li>
               </ul>
           </div>
           <div className="quick-links" id="quick-links">
@@ -32,16 +32,16 @@ function  Footer ()  {
           </div>
           <div className="Contact-info" id="contact-info">
               <h2>Contact Info</h2>
-              <div class="contact-detail" id="contact-detail">
-                  <i class='bx bxl-whatsapp' ></i>
+              <div className="contact-detail" id="contact-detail">
+                  <i className='bx bxl-whatsapp' ></i>
                   <p>+43 677 64433090</p>
               </div>
-              <div class="contact-detail" id="contact-detail">
-                  <i class='bx bxs-phone-outgoing'></i>
+              <div className="contact-detail" id="contact-detail">
+                  <i className='bx bxs-phone-outgoing'></i>
                   <p>+254 792 711 045</p>
               </div>
-              <div class="contact-detail" id="contact-detail">
-                  <i class='bx bx-mail-send'></i>
+              <div className="contact-detail" id="contact-detail">
+                  <i className='bx bx-mail-send'></i>
                   <p>info@joraf.co.ke</p>
               </div>
           </div>

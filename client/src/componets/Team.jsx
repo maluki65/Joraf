@@ -11,7 +11,7 @@ const Team = () =>{
                to sutainable practices.
             </p>
         </div>
-        <div className='TeamContainer' id='TeamContainer'>
+        {/*<div className='TeamContainer' id='TeamContainer'>
             <div className='TeamCard' id='TeamCard'>
                 <img
                   src={joyce}
@@ -25,7 +25,7 @@ const Team = () =>{
                     <p>Founder | CEO</p>
                 </div>
             </div>
-            <div className='TeamCard' id='TeamCard'>
+            {/*<div className='TeamCard' id='TeamCard'>
                 <img
                   src={victoria}
                   alt='Victoria'
@@ -64,7 +64,7 @@ const Team = () =>{
                     <p>Developer</p>
                 </div>
             </div>
-        </div>
+        </div>*/}
     </div>
   )
 }

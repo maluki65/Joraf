@@ -12,7 +12,7 @@ function App() {
       <About/>
       <Benefits/>
       <Collaborators/>
-      <Team/>
+      {/*<Team/>*/}
       <Footer/>
     </>
   )
